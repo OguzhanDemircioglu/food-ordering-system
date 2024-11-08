@@ -1,5 +1,5 @@
 package valueObject;
 
 public enum OrderStatus {
-    PENDING, PAID, APPROVED, REJECTED, CANCELLED
+    PENDING, PAID, APPROVED, CANCELLING, CANCELLED
 }
